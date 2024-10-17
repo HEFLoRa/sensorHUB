@@ -19,6 +19,7 @@ Both versions, relate to the sensorHUB web application, which is separately prov
 
 ## Authors
 David Gackstetter, Parid Varoshi, Syed Saad Zahidi
+
 Contact: david.gackstetter@tum.de
 
 
