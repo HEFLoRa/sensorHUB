@@ -18,10 +18,8 @@ We provide two versions of sensorHUB:
 Both versions, relate to the sensorHUB web application, which is separately provided: https://github.com/HEFLoRa/WEB_APP/
 
 ## Authors
-
 David Gackstetter, Parid Varoshi, Syed Saad Zahidi
-
-david.gackstetter@tum.de
+Contact: david.gackstetter@tum.de
 
 
 ## License
