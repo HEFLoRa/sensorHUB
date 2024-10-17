@@ -1,5 +1,5 @@
 # sensorHUB
-The sensorHUB software is a novel, open-source software stack for enhanced Accessibility and secure interoperability in IoT project management. It is developed by Technical University of Munich's (TUM) Hans Eisenmann-Forum for Agricultural Sciences (HEF).
+The sensorHUB software is a novel, open-source software stack for enhanced accessibility and secure interoperability in IoT project management. It is developed by Technical University of Munich's (TUM) Hans Eisenmann-Forum for Agricultural Sciences (HEF).
 
 The stack builds upon existing backend solutions from data management and identity and access management, and puts a new graphical web application into the center of the architecture, aiming to enhance the latest technology stack towards a novel, user-friendly IoT project solution. The sensorHUB’s graphical web application represents a new front-end application for managing IoT projects. Its streamlined navigation ensures simplicity, allowing users to reach their intended destinations in a few clicks. 
 
