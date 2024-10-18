@@ -12,8 +12,8 @@ In addition, several supportive components were required to guarantee the scalab
 
 # Version
 We provide two versions of sensorHUB:
-- sensorHUB_LITE (see [repository](https://github.com/HEFLoRa/sensorHUB_LITE)): a HTTP-based version for developing, testing and non-operational purposes on local machines 
-- sensorHUB_PRO (see [repository](https://github.com/HEFLoRa/sensorHUB_PRO)): a HTTPS-based version for more operational uses with domain-based routes 
+- sensorHUB_LITE (see [repository](https://github.com/tum-hef/sensorHUB_LITE)): a HTTP-based version for developing, testing and non-operational purposes on local machines 
+- sensorHUB_PRO (see [repository](https://github.com/tum-hef/sensorHUB_PRO)): a HTTPS-based version for more operational uses with domain-based routes 
 
 Both versions, relate to the sensorHUB web application, which is provided in a separate [repository](https://github.com/HEFLoRa/WEB_APP/). 
 
